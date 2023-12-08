@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "97da08d9f441060c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bugs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b907c67cf748d0c4",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Project/Test Logic.md",
+                "file": "Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Project/Test Logic.md",
+                "file": "Bugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Project/Test Logic.md"
+                "file": "Bugs.md"
               }
             }
           },
@@ -195,18 +207,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "548c9cb9bb0062db",
+  "active": "97da08d9f441060c",
   "lastOpenFiles": [
+    "Exam Project/Test Logic.md",
+    "Bugs.md",
     "Exam Project/Project Flow.md",
     "Exam Project/Design Pattern.md",
-    "Exam Project/Test Logic.md",
     "Exam Project/Untitled.canvas",
     "Exam Project/Untitled.md",
     "Exam Project",
     "Excalidraw/Drawing 2023-09-20 01.25.44.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Untitled.canvas",
-    "Untitled.md",
     "Excalidraw/Drawing 2023-09-09 23.04.13.excalidraw.md",
     "Hostpital Project/Modified.md",
     "2023-12-01 (ISMAP).md",
