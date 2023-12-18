@@ -16,8 +16,29 @@
                 "file": "Exam Project/Design Pattern.md"
               }
             }
+          },
+          {
+            "id": "e5881189a4622f4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Exam Project/Database Design.md"
+              }
+            }
+          },
+          {
+            "id": "74fab6d5efebd410",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Exam Project/Test Logic.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Project/Design Pattern.md",
+                "file": "Exam Project/Database Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Project/Design Pattern.md",
+                "file": "Exam Project/Database Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Project/Design Pattern.md"
+                "file": "Exam Project/Database Design.md"
               }
             }
           },
@@ -164,11 +185,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "274561e09037b765",
+  "active": "e5881189a4622f4a",
   "lastOpenFiles": [
     "Exam Project/Project Flow.md",
-    "Exam Project/Test Logic.md",
     "Exam Project/Design Pattern.md",
+    "Exam Project/Database Design.md",
+    "Hostpital Project/Pasted Image 20231218161650_220.png",
+    "Exam Project/Test Logic.md",
+    "Exam Project/UI design.md",
+    "Untitled.md",
+    "Hostpital Project/Pasted Image 20231213153307_432.jpg",
+    "Hostpital Project/Pasted Image 20231213152957_599.png",
+    "Hostpital Project/Pasted Image 20231213152911_675.png",
+    "Hostpital Project/Pasted Image 20231213152856_666.png",
     "Hostpital Project/Pasted Image 20231213143841_250.png",
     "Income Controller.md",
     "Japanaese.md",
@@ -192,19 +221,14 @@
     "Hostpital Project/Doctor.md",
     "Hostpital Project/Patient View.md",
     "Hostpital Project/Overview.md",
-    "Hostpital Project/Hospital View.md",
-    "Excalidraw/Drawing 2023-09-07 22.46.38.excalidraw.md",
-    "2023_06_10.md",
     "Untitled.canvas",
     "Pasted Image 20230904161301_362.png",
     "Pasted Image 20230904161054_262.jpg",
     "Untitled",
     "Pasted Image 20230904161054_229.jpg",
     "Pasted Image 20230904160950_155.jpg",
-    "Pasted Image 20230904154711_409.jpg",
     "Untitled 1.canvas",
     "Hostpital Project",
-    "Pasted Image 20230904115831_377.png",
     "Excalidraw"
   ]
 }
